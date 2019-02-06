@@ -1,4 +1,4 @@
-# final project
+# Final project
 Porto Seguro’s Safe Driver Prediction on Kaggle competition
 
 # Summary
